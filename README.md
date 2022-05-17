@@ -1,9 +1,11 @@
 # JS Bootcamp 8-Weeks
 
 - Week 1: CLI, Git/GitHub, Node.js/NPM, JS, TS, Web Intro (Client/Server)
-- Week 2: Express, JSON, APIs, Postman/Insomnia, MVC
-- Week 3: Authorization, Authentication, JWT, Middlewares, Validation
-- Week 4: MongoDB, Postgres, ORM/Prisma, GraphQL
+- Week 2: Express, JSON, APIs, Postman/Insomnia
+- Week 3: MongoDB, Postgres, ORM/Prisma, GraphQL
+- Week 4: Authorization, Authentication, JWT, Middlewares, Validation, MVC
+- Optional: Bots, CDN, Br
+
 
 
 
