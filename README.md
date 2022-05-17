@@ -1,11 +1,16 @@
-# ReactJS Web Development Bootcamp 4-Weeks 
-Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
+# JS Bootcamp 8-Weeks
+
+- Week 1: CLI, Git/GitHub, Node.js/NPM, JS, TS, Web Intro (Client/Server)
+- Week 2: Express, JSON, APIs, Postman/Insomnia, MVC
+- Week 3: Authorization, Authentication, JWT, Middlewares, Validation
+- Week 4: MongoDB, Postgres, ORM/Prisma, 
+
+
 
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
 | Class | Sun - Thurs  | 9am - 5pm  |
-
 
 
 ## Unit 1 \(Web Development Essentials \)
