@@ -42,6 +42,17 @@
 | Final Project |
 | Presentation   |
 
+
+
+| Week/Day | Topic |
+| --- | ------------- |
+| 1/1 | Web Intro, JS excution environments, Intro to JS and NodeJS|
+| 1/2 | Intermediate Javascript|
+| 1/3 | Advance Javascript and NodeJS|
+| 1/4 | CLI and intro to Git/Github |
+| 1/4 | Git/Github |
+
+
 ## What We Expect From You
 ### Graduation Requirements
 * Complete and submit all assignments.
