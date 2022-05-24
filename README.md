@@ -47,10 +47,25 @@
 | Week/Day | Topic |
 | --- | ------------- |
 | 1/1 | Web Intro, JS excution environments, Intro to JS and NodeJS|
-| 1/2 | Intermediate Javascript|
-| 1/3 | Advance Javascript and NodeJS|
+| 1/2 | Intermediate Javascript |
+| 1/3 | Advance Javascript |
 | 1/4 | CLI and intro to Git/Github |
-| 1/4 | Git/Github |
+| 1/5 | Git/Github |
+| 2/1 | NodeJS |
+| 2/1 | Express, Web Pages and Applications, View Engine |
+| 2/2 | JSON and XML, APIs (SOAP, REST) |
+| 2/3 | APIs , Insomnia/Postman |
+| 2/5 | ... |
+| 3/1 | MongoDB Database (Structure, Queries, Working with CLI and Compass) |
+| 3/2 | ORM(Mongoose), Database connection(Localy), Express with mongoDB |
+| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS |
+| 3/4 | Working with relationships |
+| 3/4 | Authentication and Authorization |
+| 4/1 | Validation |
+| 4/2 | Project |
+| 4/3 | Project |
+| 4/4 | Project |
+| 4/5 | Project |
 
 
 ## What We Expect From You
