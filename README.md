@@ -51,7 +51,7 @@
 | 1/3 | Advance Javascript |
 | 1/4 | CLI and intro to Git/Github |
 | 1/5 | Git/Github |
-| 2/1 | NodeJS |
+| 2/1 | NodeJS and NPM|
 | 2/1 | Express, Web Pages and Applications, View Engine |
 | 2/2 | JSON and XML, APIs (SOAP, REST) |
 | 2/3 | APIs , Insomnia/Postman |
