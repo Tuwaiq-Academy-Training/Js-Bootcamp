@@ -59,7 +59,7 @@
 | 2/5 | Advance view topics |
 | 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |
 | 3/2 | ODM(Mongoose), Database connection(Localy), Express with mongoDB |
-| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS |
+| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |
 | 3/4 | Working with relationships and connect to Atlas|
 | 3/5 | CRUD Application with relationships, population|
 | 4/1 | Authentication, Authorization and Validation |
