@@ -57,7 +57,7 @@
 | 2/3 | APIs , Insomnia/Postman |
 | 2/5 | ... |
 | 3/1 | MongoDB Database (Structure, Queries, Working with CLI and Compass) |
-| 3/2 | ORM(Mongoose), Database connection(Localy), Express with mongoDB |
+| 3/2 | ODM(Mongoose), Database connection(Localy), Express with mongoDB |
 | 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS |
 | 3/4 | Working with relationships and connect to Atlas|
 | 3/4 | Authentication and Authorization |
