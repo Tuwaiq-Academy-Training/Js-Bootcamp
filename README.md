@@ -53,15 +53,15 @@
 | 1/4 | CLI and intro to Git/Github |
 | 1/5 | Git/Github |
 | 2/1 | NodeJS and NPM|
-| 2/2 | HTML and CSS|
-| 2/3 | Express, Web Pages and Applications, View Engine |
-| 2/4 | JSON and XML, APIs (SOAP, REST) |
-| 2/5 | APIs , Insomnia/Postman |
+| 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |
+| 2/3 | HTML and CSS|
+| 2/4 | Web Applications with Express, View Engine(EJS) |
+| 2/5 | Advance view topics |
 | 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |
 | 3/2 | ODM(Mongoose), Database connection(Localy), Express with mongoDB |
 | 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS |
 | 3/4 | Working with relationships and connect to Atlas|
-| 3/4 | CRUD Application with relationships, population|
+| 3/5 | CRUD Application with relationships, population|
 | 4/1 | Authentication, Authorization and Validation |
 | 4/2 | JWT |
 | 4/3 | Project |
