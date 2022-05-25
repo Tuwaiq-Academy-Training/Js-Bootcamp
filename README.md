@@ -52,7 +52,7 @@
 | 1/3 | Javascript |
 | 1/4 | CLI and Git/Github |
 | 1/5 | Typescript & tooling |
-| 2/1 | NodeJS and NPM |
+| 2/1 | NodeJS, NPM, Web server |
 | 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |
 | 2/3 | HTML and CSS |
 | 2/4 | Web Applications with Express, View Engine(EJS) |
