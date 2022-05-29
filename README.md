@@ -14,7 +14,7 @@
 ## Schedule
 |  | Days | Time |
 | --- | ------------- | ------------- |
-| Class | Sun - Thurs  | 10am - ∞  |
+| Class | Sun - Thur  | 10am - ∞  |
 
 
 ## Unit 1 \(Web Development Essentials \)
