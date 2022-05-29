@@ -17,32 +17,6 @@
 | Class | Sun - Thu  | 10am - ∞  |
 
 
-## Unit 1 \(Web Development Essentials \)
-
-| Topics |
-| :--- |
-| HTML, CSS |
-| JavaScript, DOM, JSON, API |
-| Project 1 | 
-
-
-## Unit 2 \(Web Development with React \)
-
-| Topics |
-| :--- |
-| Advanced JS, React,JSX, Redux |
-| Axios, Jest, Node, NPM|
-| Project 2 |
-
-## Unit 3 \(Full Stack Web Application \)
-
-| Topics |
-| :--- |
-| Connect Front-end to Back-End  | 
-| Final Project |
-| Presentation   |
-
-
 ## Topics per Day.
 
 | Week/Day | Topic |
@@ -72,13 +46,13 @@
 
 ## What We Expect From You
 ### Graduation Requirements
-* Complete and submit all assignments.
-* Maintain consistent attendance.
-* Complete and submit the all projects.
+* Complete and submit all assignments
+* Maintain consistent attendance
+* Complete and submit the all projects
 ### Additional Expectations
-* Be present.
-* Contribute constructively.
-* Work hard.
-* Ask questions.
-* Be supportive.
+* Be present
+* Contribute constructively
+* Work hard
+* Ask questions
+* Be supportive
 * Talk to us
