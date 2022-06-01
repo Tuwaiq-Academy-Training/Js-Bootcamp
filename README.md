@@ -19,25 +19,25 @@
 
 ## Topics per Day.
 
-| Week/Day | Topic |
-| --- | ------------- |
-| 1/1 | Web intro, JS environments, Intro to JS and Node |
-| 1/2 | Javascript |
-| 1/3 | Javascript |
-| 1/4 | CLI and Git/Github |
-| 1/5 | Typescript & tooling |
-| 2/1 | NodeJS, NPM, Web server |
-| 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |
-| 2/3 | HTML and CSS |
-| 2/4 | Web Applications with Express, View Engine(EJS) |
-| 2/5 | Advance view topics |
-| 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |
-| 3/2 | Mongoose (ORM), Database connection (localy), Express with mongoDB |
-| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |
-| 3/4 | Working with relationships and connect to Atlas|
-| 3/5 | CRUD Application with relationships, population |
-| 4/1 | Authentication, Authorization and Validation |
-| 4/2 | JWT |
+| Week/Day | Topic | Assignments|
+| --- | ------------- |---|
+| 1/1 | Web intro, JS environments, Intro to JS and Node | [Link](https://github.com/Tuwaiq-JavaScript/JS-30-may-assignment) | 
+| 1/2 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/JS-31-may-assignment) | 
+| 1/3 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/JS-1-june-assignment) | 
+| 1/4 | CLI and Git/Github |[Link](https://github.com/Tuwaiq-JavaScript/JS-2-june-assignment) | 
+| 1/5 | Typescript & tooling | [Link]()|
+| 2/1 | NodeJS, NPM, Web server |[Link]()|
+| 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |[Link]()|
+| 2/3 | HTML and CSS |[Link]()|
+| 2/4 | Web Applications with Express, View Engine(EJS) |[Link]()|
+| 2/5 | Advance view topics |[Link]()|
+| 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |[Link]()|
+| 3/2 | Mongoose (ORM), Database connection (localy), Express with mongoDB |[Link]()|
+| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |[Link]()|
+| 3/4 | Working with relationships and connect to Atlas|[Link]()|
+| 3/5 | CRUD Application with relationships, population |[Link]()|
+| 4/1 | Authentication, Authorization and Validation |[Link]()|
+| 4/2 | JWT |[Link]()|
 | 4/3 | Project |
 | 4/4 | Project |
 | 4/5 | Project |
