@@ -21,11 +21,12 @@
 
 | Week/Day | Topic | Assignments|
 | --- | ------------- |---|
-| 1/1 | Web intro, JS environments, Intro to JS and Node | [Link](https://github.com/Tuwaiq-JavaScript/JS-30-may-assignment) | 
-| 1/2 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/JS-31-may-assignment) | 
-| 1/3 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/JS-1-june-assignment) | 
-| 1/4 | CLI and Git/Github |[Link](https://github.com/Tuwaiq-JavaScript/JS-2-june-assignment) | 
-| 1/5 | Typescript & tooling | [Link]()|
+| 1/1 | Web intro, JS environments, Intro to JS and Node | [Link](https://github.com/Tuwaiq-JavaScript/hw01) | 
+| 1/2 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/hw02) | 
+| 1/3 | Javascript |[Link](https://github.com/Tuwaiq-JavaScript/hw03) | 
+| 1/4 | CLI and Git/Github |[Link](https://github.com/Tuwaiq-JavaScript/hw04) | 
+| 1/5 | Typescript & tooling | [Link](https://github.com/Tuwaiq-JavaScript/hw05)|
+| -/- | Project 01 | [Link](https://github.com/Tuwaiq-JavaScript/project01)|
 | 2/1 | NodeJS, NPM, Web server |[Link]()|
 | 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |[Link]()|
 | 2/3 | HTML and CSS |[Link]()|
