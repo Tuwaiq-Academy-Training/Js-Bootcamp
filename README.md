@@ -27,11 +27,12 @@
 | 1/4 | CLI and Git/Github |[Link](https://github.com/Tuwaiq-JavaScript/hw04) | 
 | 1/5 | Typescript & tooling | [Link](https://github.com/Tuwaiq-JavaScript/hw05)|
 | -/- | Project 01 | [Link](https://github.com/Tuwaiq-JavaScript/project01)|
-| 2/1 | NodeJS, NPM, Web server |[Link]()|
-| 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman |[Link]()|
-| 2/3 | HTML and CSS |[Link]()|
-| 2/4 | Web Applications with Express, View Engine(EJS) |[Link]()|
-| 2/5 | Advance view topics |[Link]()|
+| 2/1 | NodeJS, NPM, Web server
+| 2/2 | Express, JSON and XML, APIs (SOAP, REST), Insomnia/Postman
+| 2/3 | HTML and CSS
+| 2/4 | Web Applications with Express, View Engine(EJS) 
+| 2/5 | Advance view topics
+| -/- | Project 02 | [Link](https://github.com/Tuwaiq-JavaScript/project02)|
 | 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |[Link]()|
 | 3/2 | Mongoose (ORM), Database connection (localy), Express with mongoDB |[Link]()|
 | 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |[Link]()|
