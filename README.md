@@ -33,9 +33,9 @@
 | 2/4 | Web Applications with Express, View Engine(EJS) 
 | 2/5 | Advance view topics
 | -/- | Project 02 | [Link](https://github.com/Tuwaiq-JavaScript/project02)|
-| 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) |[Link]()|
-| 3/2 | Mongoose (ORM), Database connection (localy), Express with mongoDB |[Link]()|
-| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |[Link]()|
+| 3/1 | MongoDB Database (Structure, Queries, Relationships, Working with CLI and Compass) 
+| 3/2 | Mongoose (ORM), Database connection (localy), Express with mongoDB |[Link](https://github.com/Tuwaiq-JavaScript/hw06)|
+| 3/3 | CRUD Application using MongoDB/NodeJS/Express/EJS , MVC |[Link](https://github.com/Tuwaiq-JavaScript/hw07)|
 | 3/4 | Working with relationships and connect to Atlas|[Link]()|
 | 3/5 | CRUD Application with relationships, population |[Link]()|
 | 4/1 | Authentication, Authorization and Validation |[Link]()|
